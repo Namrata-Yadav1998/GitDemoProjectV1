@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="19.161" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Automation Exercise page practice" name="Login to Automation Exercise" time="19.026">
+<system-out><![CDATA[
+Given User is on automation exercise Browser................................passed
+When User click on LoginButton..............................................passed
+Then Navigate to Login to your account......................................passed
+When User Enters Email Address and Password.................................passed
+And Click on Login Page.....................................................passed
+Then Navigate to Automation Exercise Home Page..............................passed
+When Click on Add to cart...................................................passed
+And Click on View Cart......................................................passed
+Then Click on Proceed to checkOut...........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
